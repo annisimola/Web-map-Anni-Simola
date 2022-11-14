@@ -1,3 +1,4 @@
 # Web-map-Anni-Simola
-Tanzania Forest Reserves (2020) and National Parks (2016)
-https://annisimola.github.io/Web-map-Anni-Simola/
+This is a repository for a web map of Tanzanian forests.
+
+The map can be found from https://annisimola.github.io/Web-map-Anni-Simola/
